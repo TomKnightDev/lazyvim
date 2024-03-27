@@ -59,4 +59,7 @@ require("neo-tree").setup({
       end,
     },
   },
+  filesystem = {
+    follow_current_file = true,
+  },
 })
