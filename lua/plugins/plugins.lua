@@ -24,4 +24,7 @@ return {
       enabled = false,
     },
   } },
+  {
+    "https://github.com/jparise/vim-graphql",
+  },
 }
